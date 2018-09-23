@@ -1,0 +1,21 @@
+{
+  "_name": "hpt:tankcontrol",
+  "stats": {
+    "opacity": 0,
+    "brightness": 0,
+    "hardness": 10.0,
+    "resistance": 6.4424509E9,
+    "sound": "metal",
+    "slipperiness": 0.6,
+    "tool_data": [
+      {
+        "tool": "pickaxe",
+        "level": 2
+      }
+    ]
+  },
+  "break_speed": [],
+  "drops": [],
+  "harvest": [],
+  "xp": []
+}

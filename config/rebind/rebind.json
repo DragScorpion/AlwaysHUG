@@ -1,0 +1,20 @@
+{
+  "main": {
+    "external_config": true,
+    "rewrite_controls": false,
+    "debug_mode": false,
+    "updates": {
+      "update_checker": false,
+      "show_changelog": false
+    }
+  },
+  "game": {
+    "auto_jump": false
+  },
+  "controls": {
+    "player_sprint": true,
+    "double_tap_forward_sprint": false,
+    "mount_sprint": true,
+    "hotbar_scrolling": true
+  }
+}
