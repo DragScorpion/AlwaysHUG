@@ -1,0 +1,19 @@
+{
+	"Osmium": {
+        "template": "uniform",
+		"block": "Mekanism:OreBlock",
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 32,
+        "minHeight": 24,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    }
+}

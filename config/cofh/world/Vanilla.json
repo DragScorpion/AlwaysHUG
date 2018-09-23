@@ -11,10 +11,10 @@
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "gravel": {
@@ -28,10 +28,10 @@
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "clay": {
@@ -45,10 +45,10 @@
         "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },    
 	// Overworld Ores
@@ -63,10 +63,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "iron": {
@@ -80,10 +80,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "gold": {
@@ -97,10 +97,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "redstone": {
@@ -114,10 +114,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "diamond": {
@@ -131,10 +131,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     
@@ -149,10 +149,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
     "lapis": {
@@ -166,10 +166,10 @@
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
-        "dimensionRestriction": "blacklist",
+        "dimensionRestriction": "whitelist",
         "dimensions": [
-            -1,
-            1
+            0,
+            7
         ]
     },
 	// Nether Ores
@@ -186,7 +186,9 @@
         "biomes": [
             {"type": "dictionary", "entry": "NETHER"}
         ],
-        "dimensionRestriction": "none",
-        "dimensions": []
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+		    -1
+		]
     }
 }

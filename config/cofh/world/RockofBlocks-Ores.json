@@ -1,0 +1,88 @@
+{
+    // Blocks of Rock
+	"andesite": {
+        "template": "uniform",
+        "block": "chisel:andesite",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    },
+	"diorite": {
+        "template": "uniform",
+        "block": "chisel:diorite",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    },
+	"granite": {
+        "template": "uniform",
+        "block": "chisel:granite",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    },
+	"limestone": {
+        "template": "uniform",
+        "block": "chisel:limestone",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    },
+	"marble": {
+        "template": "uniform",
+        "block": "chisel:marble",
+        "material": "minecraft:stone",
+        "clusterSize": 32,
+        "numClusters": 10,
+        "minHeight": 0,
+        "maxHeight": 128,
+        "retrogen": "false",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    }
+}

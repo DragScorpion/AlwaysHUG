@@ -1,0 +1,24 @@
+{
+		// Applied Energistics
+	"CertusQuartz": {
+        "template": "uniform",
+        "block": [
+            {"name": "appliedenergistics2:tile.OreQuartz", "weight":90},
+            {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":10}
+        ],
+        "clusterSize": 11,
+        "numClusters": 3,
+        "minHeight": 2,
+        "maxHeight": 70,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [
+            "all"
+        ],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0,
+            7
+        ]
+    }
+}
