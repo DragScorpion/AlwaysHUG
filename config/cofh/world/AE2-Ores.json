@@ -3,13 +3,13 @@
 	"CertusQuartz": {
         "template": "uniform",
         "block": [
-            {"name": "appliedenergistics2:tile.OreQuartz", "weight":90},
-            {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":10}
+            {"name": "appliedenergistics2:tile.OreQuartz", "weight":93},
+            {"name": "appliedenergistics2:tile.OreQuartzCharged", "weight":7}
         ],
-        "clusterSize": 11,
-        "numClusters": 3,
-        "minHeight": 2,
-        "maxHeight": 70,
+        "clusterSize": 14,
+        "numClusters": 4,
+        "minHeight": 30,
+        "maxHeight": 50,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [
