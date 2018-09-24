@@ -16,22 +16,6 @@
 			0
 			]
 	},
-	"Sulfur": {
-        "template": "uniform",
-		"block": {"name": "Metallurgy:utility.ore", "metadata": 0},
-        "material": "minecraft:stone",
-        "clusterSize": 2,
-        "numClusters": 32,
-        "minHeight": 24,
-        "maxHeight": 64,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            0
-			]
-	},
 	"Phosphorite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 1},
@@ -148,7 +132,7 @@
 	"Ignatius": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 0},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -164,7 +148,7 @@
 	"ShadowIron": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 1},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -180,7 +164,7 @@
 	"Lemurite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 2},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -196,7 +180,7 @@
 	"Midasium": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 3},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -212,7 +196,7 @@
 	"Vyroxeres": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 4},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -228,7 +212,7 @@
 	"Ceruclase": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 5},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -244,7 +228,7 @@
 	"Alduorite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 6},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -260,7 +244,7 @@
 	"Kalendrite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 7},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -276,7 +260,7 @@
 	"Vulcanite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 8},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,
@@ -292,7 +276,7 @@
 	"Sanguinite": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:nether.ore", "metadata": 9},
-        "material": "minecraft:stone",
+        "material": "minecraft:netherrack",
         "clusterSize": 2,
         "numClusters": 32,
         "minHeight": 24,

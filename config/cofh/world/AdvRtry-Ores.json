@@ -1,7 +1,23 @@
 {
-	"Cobalt": {
+	"Rutile": {
         "template": "uniform",
-		"block": {"name": "TConstruct:SearedBrick", "metadata": 1},
+		"block": {"name": "libVulpes:libVulpesore0", "metadata": 8},
+        "material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 24,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    },
+	"Dilithium": {
+        "template": "uniform",
+		"block": {"name": "libVulpes:libVulpesore0", "metadata": 0},
         "material": "minecraft:netherrack",
         "clusterSize": 1,
         "numClusters": 24,
@@ -14,10 +30,10 @@
         "dimensions": [
             -1
         ]
-    },
-	"Ardite": {
+    }
+	"Iridium": {
         "template": "uniform",
-		"block": {"name": "TConstruct:SearedBrick", "metadata": 2},
+		"block": {"name": "libVulpes:libVulpesore0", "metadata": 10},
         "material": "minecraft:netherrack",
         "clusterSize": 1,
         "numClusters": 24,

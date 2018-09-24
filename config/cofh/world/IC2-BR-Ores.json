@@ -18,5 +18,24 @@
             0,
             7
         ]
+    },
+	"Uran": {
+        "template": "uniform",
+        "block": [
+            {"name": "NetehrOres:tile.netherores.ore.0", "metadata":11, "weight":30},
+            {"name": "BigReactors:YelloriteOre", "weight":70}
+        ],
+        "material": "minecraft:netherrack",
+        "clusterSize": 3,
+        "numClusters": 8,
+        "minHeight": 1,
+        "maxHeight": 128,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
     }
 }

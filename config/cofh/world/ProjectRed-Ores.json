@@ -1,7 +1,7 @@
 {
 	"Electrotine": {
         "template": "uniform",
-		"block": {"name": "ProjRed:Exploration:projectred.exploration.ore", "metadata": 6},
+		"block": {"name": "ProjRed|Exploration:projectred.exploration.ore", "metadata": 6},
         "material": "minecraft:stone",
         "clusterSize": 2,
         "numClusters": 32,
