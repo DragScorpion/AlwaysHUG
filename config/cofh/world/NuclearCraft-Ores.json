@@ -14,7 +14,7 @@
         "dimensions": [
             0
         ]
-    }
+    },
 	"Lithium": {
         "template": "uniform",
 		"block": {"name": "NuclearCraft:blockOre", "metadata": 7},
@@ -30,7 +30,7 @@
         "dimensions": [
             0
         ]
-	}
+	},
 	"Boron": {
         "template": "uniform",
 		"block": {"name": "NuclearCraft:blockOre", "metadata": 8},
@@ -46,7 +46,7 @@
         "dimensions": [
             0
         ]
-	}
+	},
     "Thorium": {
         "template": "uniform",
 		"block": {"name": "NuclearCraft:blockOre", "metadata": 6},
