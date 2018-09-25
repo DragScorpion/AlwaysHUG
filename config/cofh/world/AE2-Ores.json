@@ -17,8 +17,7 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0,
-            7
+            0
         ]
     }
 }

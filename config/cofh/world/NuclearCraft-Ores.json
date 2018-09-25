@@ -1,0 +1,66 @@
+{
+	"Thorium": {
+        "template": "uniform",
+		"block": {"name": "NuclearCraft:blockOre", "metadata": 5},
+        "material": "minecraft:stone",
+        "clusterSize": 16,
+        "numClusters": 6,
+        "minHeight": 45,
+        "maxHeight": 50,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+	"Lithium": {
+        "template": "uniform",
+		"block": {"name": "NuclearCraft:blockOre", "metadata": 7},
+        "material": "minecraft:stone",
+        "clusterSize": 6,
+        "numClusters": 14,
+        "minHeight": 15,
+        "maxHeight": 40,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+	}
+	"Boron": {
+        "template": "uniform",
+		"block": {"name": "NuclearCraft:blockOre", "metadata": 8},
+        "material": "minecraft:stone",
+        "clusterSize": 2,
+        "numClusters": 7,
+        "minHeight": 5,
+        "maxHeight": 50,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+	}
+    "Thorium": {
+        "template": "uniform",
+		"block": {"name": "NuclearCraft:blockOre", "metadata": 6},
+        "material": "minecraft:stone",
+        "clusterSize": 1,
+        "numClusters": 6,
+        "minHeight": 5,
+        "maxHeight": 15,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            0
+        ]
+    }
+}
