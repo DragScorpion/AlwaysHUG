@@ -633,9 +633,13 @@
 	- Name: Mesa Plateau M
 	- Forge Biome Types: HOT DRY PLAINS SANDY 
 
+168
+	- Name: Twilight Clearing
+	- Forge Biome Types: SPARSE PLAINS 
+
 170
 	- Name: BambooForest
-	- Forge Biome Types: SPARSE DENSE LUSH FOREST PLAINS 
+	- Forge Biome Types: DENSE LUSH FOREST 
 
 171
 	- Name: Dark Forest

@@ -1363,6 +1363,10 @@ blockHaderoth
 Metallurgy:fantasy.block - 10
 
 
+blockHeeEndium
+HardcoreEnderExpansion:endium_block - 0
+
+
 blockHepatizon
 Metallurgy:base.block - 4
 
@@ -2973,6 +2977,10 @@ clumpGold
 Mekanism:Clump - 1
 
 
+clumpHeeEndium
+aobd:clumpHeeEndium - 0
+
+
 clumpIgnatius
 aobd:clumpIgnatius - 0
 
@@ -3267,6 +3275,9 @@ clusterBerryEximite
 clusterBerryGold
 
 
+clusterBerryHeeEndium
+
+
 clusterBerryIgnatius
 
 
@@ -3479,6 +3490,9 @@ clusterBushEximite
 
 
 clusterBushGold
+
+
+clusterBushHeeEndium
 
 
 clusterBushIgnatius
@@ -3754,6 +3768,9 @@ clusterDirtyEximite
 clusterDirtyGold
 
 
+clusterDirtyHeeEndium
+
+
 clusterDirtyIgnatius
 
 
@@ -3981,6 +3998,22 @@ clusterHaderoth
 
 
 clusterHardCarbon
+
+
+clusterHeeEndPowder
+
+
+clusterHeeEndium
+aobd:clusterHeeEndium - 0
+
+
+clusterHeeIgneousRock
+
+
+clusterHeeInstabilityOrb
+
+
+clusterHeeStardust
 
 
 clusterHepatizon
@@ -5010,6 +5043,9 @@ clusterTinyEximite
 
 
 clusterTinyGold
+
+
+clusterTinyHeeEndium
 
 
 clusterTinyIgnatius
@@ -6664,6 +6700,10 @@ crushedGold
 IC2:itemCrushedOre - 2
 
 
+crushedHeeEndium
+aobd:crushedHeeEndium - 0
+
+
 crushedIgnatius
 aobd:crushedIgnatius - 0
 
@@ -6818,6 +6858,10 @@ aobd:crushedPurifiedEximite - 0
 
 crushedPurifiedGold
 IC2:itemPurifiedCrushedOre - 2
+
+
+crushedPurifiedHeeEndium
+aobd:crushedPurifiedHeeEndium - 0
 
 
 crushedPurifiedIgnatius
@@ -7126,6 +7170,10 @@ appliedenergistics2:item.ItemMultiMaterial - 7
 
 crystalGold
 Mekanism:Crystal - 1
+
+
+crystalHeeEndium
+aobd:crystalHeeEndium - 0
 
 
 crystalIgnatius
@@ -8278,6 +8326,9 @@ dustBerryEximite
 dustBerryGold
 
 
+dustBerryHeeEndium
+
+
 dustBerryIgnatius
 
 
@@ -8502,6 +8553,9 @@ dustBushEximite
 
 
 dustBushGold
+
+
+dustBushHeeEndium
 
 
 dustBushIgnatius
@@ -8820,6 +8874,10 @@ dustDirtyGold
 Mekanism:DirtyDust - 1
 
 
+dustDirtyHeeEndium
+aobd:dustDirtyHeeEndium - 0
+
+
 dustDirtyIgnatius
 aobd:dustDirtyIgnatius - 0
 
@@ -9109,6 +9167,22 @@ Metallurgy:fantasy.dust - 10
 
 dustHardCarbon
 NuclearCraft:material - 79
+
+
+dustHeeEndPowder
+
+
+dustHeeEndium
+aobd:dustHeeEndium - 0
+
+
+dustHeeIgneousRock
+
+
+dustHeeInstabilityOrb
+
+
+dustHeeStardust
 
 
 dustHepatizon
@@ -10238,6 +10312,10 @@ dustTinyGold
 IC2:itemDustSmall - 2
 
 
+dustTinyHeeEndium
+aobd:dustTinyHeeEndium - 0
+
+
 dustTinyIgnatius
 aobd:dustTinyIgnatius - 0
 
@@ -10545,6 +10623,9 @@ dustberryEximite
 dustberryGold
 
 
+dustberryHeeEndium
+
+
 dustberryIgnatius
 
 
@@ -10717,6 +10798,9 @@ dustbushEximite
 
 
 dustbushGold
+
+
+dustbushHeeEndium
 
 
 dustbushIgnatius
@@ -13953,6 +14037,21 @@ minecraft:emerald - 0
 gemEximite
 
 
+gemHeeEndPowder
+
+
+gemHeeEndium
+
+
+gemHeeIgneousRock
+
+
+gemHeeInstabilityOrb
+
+
+gemHeeStardust
+
+
 gemIgnatius
 
 
@@ -14308,6 +14407,9 @@ gemberryEximite
 gemberryGold
 
 
+gemberryHeeEndium
+
+
 gemberryIgnatius
 
 
@@ -14480,6 +14582,9 @@ gembushEximite
 
 
 gembushGold
+
+
+gembushHeeEndium
 
 
 gembushIgnatius
@@ -14976,6 +15081,9 @@ ingotBerryEximite
 ingotBerryGold
 
 
+ingotBerryHeeEndium
+
+
 ingotBerryIgnatius
 
 
@@ -15204,6 +15312,9 @@ ingotBushEximite
 
 
 ingotBushGold
+
+
+ingotBushHeeEndium
 
 
 ingotBushIgnatius
@@ -15506,6 +15617,9 @@ ingotDirtyEximite
 ingotDirtyGold
 
 
+ingotDirtyHeeEndium
+
+
 ingotDirtyIgnatius
 
 
@@ -15702,10 +15816,6 @@ ingotFairy
 ExtraTiC:funStuffIngot - 0
 
 
-ingotFiery
-TwilightForest:item.fieryIngot - 0
-
-
 ingotFirestone
 
 
@@ -15755,6 +15865,22 @@ Metallurgy:haderoth.ingot - 0
 
 ingotHardCarbon
 NuclearCraft:material - 78
+
+
+ingotHeeEndPowder
+
+
+ingotHeeEndium
+HardcoreEnderExpansion:endium_ingot - 0
+
+
+ingotHeeIgneousRock
+
+
+ingotHeeInstabilityOrb
+
+
+ingotHeeStardust
 
 
 ingotHepatizon
@@ -15814,10 +15940,6 @@ minecraft:iron_ingot - 0
 
 ingotIronCompressed
 PneumaticCraft:ingotIronCompressed - 0
-
-
-ingotIronWood
-TwilightForest:item.ironwoodIngot - 0
 
 
 ingotKalendrite
@@ -16861,6 +16983,9 @@ ingotTinyEximite
 ingotTinyGold
 
 
+ingotTinyHeeEndium
+
+
 ingotTinyIgnatius
 
 
@@ -17126,6 +17251,9 @@ ingotberryEximite
 ingotberryGold
 
 
+ingotberryHeeEndium
+
+
 ingotberryIgnatius
 
 
@@ -17298,6 +17426,9 @@ ingotbushEximite
 
 
 ingotbushGold
+
+
+ingotbushHeeEndium
 
 
 ingotbushIgnatius
@@ -18933,6 +19064,10 @@ nuggetHaderoth
 Metallurgy:fantasy.nugget - 10
 
 
+nuggetHeeEndium
+aobd:nuggetHeeEndium - 0
+
+
 nuggetHepatizon
 Metallurgy:base.nugget - 4
 
@@ -20020,6 +20155,9 @@ oreBerryEximite
 oreBerryGold
 
 
+oreBerryHeeEndium
+
+
 oreBerryIgnatius
 
 
@@ -20235,6 +20373,9 @@ oreBushEximite
 
 
 oreBushGold
+
+
+oreBushHeeEndium
 
 
 oreBushIgnatius
@@ -20539,6 +20680,9 @@ oreDirtyEximite
 oreDirtyGold
 
 
+oreDirtyHeeEndium
+
+
 oreDirtyIgnatius
 
 
@@ -20771,6 +20915,26 @@ oreHaderoth
 
 
 oreHardCarbon
+
+
+oreHeeEndPowder
+HardcoreEnderExpansion:end_powder_ore - 0
+
+
+oreHeeEndium
+HardcoreEnderExpansion:endium_ore - 0
+
+
+oreHeeIgneousRock
+HardcoreEnderExpansion:igneous_rock_ore - 0
+
+
+oreHeeInstabilityOrb
+HardcoreEnderExpansion:instability_orb_ore - 0
+
+
+oreHeeStardust
+HardcoreEnderExpansion:stardust_ore - 0
 
 
 oreHepatizon
@@ -21904,6 +22068,9 @@ oreTinyEximite
 oreTinyGold
 
 
+oreTinyHeeEndium
+
+
 oreTinyIgnatius
 
 
@@ -22181,6 +22348,10 @@ oreberryGold
 TConstruct:oreBerries - 1
 
 
+oreberryHeeEndium
+aobd:oreberryHeeEndium - 0
+
+
 oreberryIgnatius
 aobd:oreberryIgnatius - 0
 
@@ -22411,6 +22582,10 @@ aobd:orebushEximite - 0
 
 orebushGold
 TConstruct:ore.berries.one - 1
+
+
+orebushHeeEndium
+aobd:orebushHeeEndium - 0
 
 
 orebushIgnatius
@@ -24134,6 +24309,10 @@ Thaumcraft:ItemShard - 1
 
 shardGold
 Mekanism:Shard - 1
+
+
+shardHeeEndium
+aobd:shardHeeEndium - 0
 
 
 shardIgnatius

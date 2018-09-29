@@ -1,0 +1,34 @@
+{
+	"DraconiumNether": {
+        "template": "uniform",
+		"block": "DraconicEvolution:draconiumOre",
+        "material": "minecraft:netherrack",
+        "clusterSize": 2,
+        "numClusters": 32,
+        "minHeight": 24,
+        "maxHeight": 64,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            -1
+        ]
+    },
+	"DraconiumTheEnd": {
+        "template": "uniform",
+		"block": "DraconicEvolution:draconiumOre",
+        "material": "minecraft:end_stone",
+        "clusterSize": 2,
+        "numClusters": 32,
+        "minHeight": 0,
+        "maxHeight": 100,
+        "retrogen": "true",
+        "biomeRestriction": "none",
+        "biomes": [],
+        "dimensionRestriction": "whitelist",
+        "dimensions": [
+            1
+        ]
+    }
+}

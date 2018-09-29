@@ -1928,6 +1928,36 @@ Growthcraft|Rice:grc.riceSake
 	- Saturation Amount: 0.2
 
 
+HardcoreEnderExpansion:infestation_remedy
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+HardcoreEnderExpansion:potion_of_instability
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+HardcoreEnderExpansion:potion_of_instability
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+HardcoreEnderExpansion:potion_of_purity
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
+HardcoreEnderExpansion:potion_of_purity
+	- Megadata: 1
+	- Food or Drink? Drink
+	- Food Info Unknown!
+
+
 IC2:itemMugBooze
 	- Megadata: 0
 	- Food or Drink? Drink
