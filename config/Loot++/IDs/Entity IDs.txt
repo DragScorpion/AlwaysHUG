@@ -283,6 +283,9 @@ Mekanism.Flame
 Mekanism.ObsidianTNT
 Mekanism.Robit
 Metallurgy.explosiveEntity
+MillBlaze
+MillGhast
+MillWitherSkeleton
 MineFactoryReloaded.DebugTracker
 MineFactoryReloaded.FishingRod
 MineFactoryReloaded.Item
@@ -818,6 +821,10 @@ gadomancy.EntityPermItem
 gadomancy.FakePlayerEntity
 lootplusplus.Label
 lootplusplus.ThrownItem
+ml_GenericAsimmFemale
+ml_GenericSimmFemale
+ml_GenericVillager
+ml_Tapestry
 npcEnderman
 npcGolem
 npccrystal
@@ -1089,9 +1096,6 @@ witherSkeleton
 82 - enderzoo.WitherCat
 83 - enderzoo.DireWolf
 84 - enderzoo.DireSlime
-86 - NuclearMonster
-87 - Paul
-88 - Brian
 90 - Pig
 91 - Sheep
 92 - Cow
@@ -1101,10 +1105,13 @@ witherSkeleton
 96 - MushroomCow
 98 - Ozelot
 100 - EntityHorse
-105 - witherSkeleton
-106 - Blizz
-107 - Blitz
-108 - Basalz
+104 - NuclearMonster
+105 - Paul
+106 - Brian
+112 - witherSkeleton
+113 - Blizz
+114 - Blitz
+115 - Basalz
 120 - Villager
 256 - GalacticraftCore.EvolvedSpider
 257 - GalacticraftCore.EvolvedZombie

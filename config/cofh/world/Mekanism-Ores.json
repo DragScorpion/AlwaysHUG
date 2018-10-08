@@ -3,16 +3,17 @@
         "template": "uniform",
 		"block": "Mekanism:OreBlock",
         "material": "minecraft:stone",
-        "clusterSize": 2,
-        "numClusters": 8,
-        "minHeight": 15,
-        "maxHeight": 2,
+        "clusterSize": 4,
+        "numClusters": 5,
+        "minHeight": 2,
+        "maxHeight": 15,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
-        ]
+            0,
+			7
+			]
     }
 }

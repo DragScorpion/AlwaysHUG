@@ -756,9 +756,9 @@ minecraft:spawn_egg:81, Spawn Wither Witch
 minecraft:spawn_egg:82, Spawn Wither Cat
 minecraft:spawn_egg:83, Spawn Dire Wolf
 minecraft:spawn_egg:84, Spawn Khndrel Keght
-minecraft:spawn_egg:86, Spawn Nuclear Monster
-minecraft:spawn_egg:87, Spawn Paul
-minecraft:spawn_egg:88, Spawn Brian
+minecraft:spawn_egg:104, Spawn Nuclear Monster
+minecraft:spawn_egg:105, Spawn Paul
+minecraft:spawn_egg:106, Spawn Brian
 minecraft:spawn_egg:308, Spawn Chicken Minion
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
@@ -5366,38 +5366,38 @@ Botania:pavement4Slab:0, Yellow Portuguese Pavement Slab
 Botania:pavement4SlabFull:0, Yellow Portuguese Pavement Slab
 Botania:pavement5Slab:0, Green Portuguese Pavement Slab
 Botania:pavement5SlabFull:0, Green Portuguese Pavement Slab
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:enchanter, Osmotic Enchanter
 ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
 ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
 ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -5412,7 +5412,7 @@ ForbiddenMagic:TaintBlock:1, Tainted Stone Bricks
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Device)
+ExtraUtilities:endConstructor:0, QED (Quantum Entanglement Doohicky)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -11924,6 +11924,39 @@ metallurgychisel:precious_window:1, Silver Window
 metallurgychisel:precious_window:2, Platinum Window
 metallurgychisel:precious_window:3, Brass Window
 metallurgychisel:precious_window:4, Electrum Window
+millenaire:tile.ml_building, tile.ml_building.name
+millenaire:tile.ml_panel, tile.ml_panel.name
+millenaire:tile.ml_wood_deco:0, tile.ml_wood_deco.0.name
+millenaire:tile.ml_wood_deco:1, tile.ml_wood_deco.1.name
+millenaire:tile.ml_wood_deco:2, tile.ml_wood_deco.2.name
+millenaire:tile.ml_wood_deco:3, tile.ml_wood_deco.3.name
+millenaire:tile.ml_wood_deco:4, tile.ml_wood_deco.4.name
+millenaire:tile.ml_earth_deco:0, tile.ml_earth_deco.0.name
+millenaire:tile.ml_earth_deco:1, tile.ml_earth_deco.1.name
+millenaire:tile.ml_stone_deco:0, tile.ml_stone_deco.0.name
+millenaire:tile.ml_stone_deco:1, tile.ml_stone_deco.1.name
+millenaire:tile.ml_stone_deco:2, tile.ml_stone_deco.2.name
+millenaire:tile.ml_stone_deco:3, tile.ml_stone_deco.3.name
+millenaire:tile.ml_path:8, tile.ml_path.8.name
+millenaire:tile.ml_path:9, tile.ml_path.9.name
+millenaire:tile.ml_path:10, tile.ml_path.10.name
+millenaire:tile.ml_path:11, tile.ml_path.11.name
+millenaire:tile.ml_path:12, tile.ml_path.12.name
+millenaire:tile.ml_path:13, tile.ml_path.13.name
+millenaire:tile.ml_path_slab:8, tile.ml_path_slab.8.name
+millenaire:tile.ml_path_slab:9, tile.ml_path_slab.9.name
+millenaire:tile.ml_path_slab:10, tile.ml_path_slab.10.name
+millenaire:tile.ml_path_slab:11, tile.ml_path_slab.11.name
+millenaire:tile.ml_path_slab:12, tile.ml_path_slab.12.name
+millenaire:tile.ml_path_slab:13, tile.ml_path_slab.13.name
+millenaire:tile.ml_cropRice, tile.ml_cropRice.name
+millenaire:tile.ml_cropTurmeric, tile.ml_cropTurmeric.name
+millenaire:tile.ml_cropMaize, tile.ml_cropMaize.name
+millenaire:tile.ml_cropVine, tile.ml_cropVine.name
+millenaire:tile.byzantine_brick, tile.byzantine_brick.name
+millenaire:tile.byzantine_brick_slab, tile.byzantine_brick_slab.name
+millenaire:tile.byzantine_mixedbrick, tile.byzantine_mixedbrick.name
+millenaire:tile.ml_panes, tile.ml_panes.name
 NetherOres:tile.netherores.ore.0:0, Nether Coal Ore
 NetherOres:tile.netherores.ore.0:1, Nether Diamond Ore
 NetherOres:tile.netherores.ore.0:2, Nether Gold Ore
@@ -12274,11 +12307,11 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
-OpenPeripheral:ticketmachine, Ticket Machine
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
+OpenPeripheral:ticketmachine, Ticket Machine
 openprinter:openprinter.printer, Open Printer
 openprinter:openprinter.shredder, Open Shredder
 openprinter:openprinter.filecabinet, Open File Cabinet
@@ -13174,29 +13207,6 @@ WitchingGadgets:WG_WoodenDevice:2, Thaumic Stone Extruder
 WitchingGadgets:WG_WoodenDevice:3, Cutting Table
 WitchingGadgets:WG_WoodenDevice:4, Thaumic Sauna Stove
 WitchingGadgets:WG_WoodenDevice:5, Aspect Library
-WitchingGadgets:WG_MetalDevice:0, Essentia Pump
-WitchingGadgets:WG_MetalDevice:1, Arcane Terrestrial Reformer
-WitchingGadgets:WG_MetalDevice:2, Terrestrial Focus: Plains
-WitchingGadgets:WG_MetalDevice:3, Terrestrial Focus: Cold Taiga
-WitchingGadgets:WG_MetalDevice:4, Terrestrial Focus: Desert
-WitchingGadgets:WG_MetalDevice:5, Terrestrial Focus: Jungle
-WitchingGadgets:WG_MetalDevice:6, Terrestrial Focus: Hell
-WitchingGadgets:WG_MetalDevice:7, Void metal Block
-WitchingGadgets:WG_MetalDevice:8, Terrestrial Focus: Tainted Lands
-WitchingGadgets:WG_MetalDevice:9, Terrestrial Focus: Mushroom Island
-WitchingGadgets:WG_RoseVine, Rose Vines
-WitchingGadgets:WG_CustomAir, Glimmer of Light
-ForgeRelocation:relocation.blockmovingrow:0, tile.relocation.blockmovingrow|0.name
-MCFrames:mcframes.motor:0, Debug Frame Motor
-MCFrames:mcframes.frame, Frame
-VeganOption:fluidOilVegetable, Vegetable Oil
-VeganOption:inkBlack, Black Vegetable Oil Ink
-VeganOption:inkWhite, White Vegetable Oil Ink
-VeganOption:lyeWater, Wood Ash Lye
-VeganOption:fluidSoapSolution, Soap Solution
-VeganOption:composter, Composter
-VeganOption:compost, Compost
-VeganOption:basin, Basin
 arsmagica2:spellBase, item.arsmagica2:spell_base.name
 arsmagica2:itemOre:0, Vinteum Dust
 arsmagica2:itemOre:1, Arcane Compound
@@ -16143,10 +16153,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Blue Portuguese Pavement S
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Red Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Yellow Portuguese Pavement Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Green Portuguese Pavement Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -19494,6 +19504,8 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Silver Warning
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Platinum Warning
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Brass Warning
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrum Warning
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.byzantine_brick.name
+appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.byzantine_mixedbrick.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Coal Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Platinum Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
@@ -30135,6 +30147,104 @@ MekanismGenerators:SolarPanel, Solar Panel
 MekanismGenerators:Hohlraum, Hohlraum
 MekanismGenerators:TurbineBlade, Turbine Blade
 metallurgychisel:tabitem, item.metallurgychisel.tab.item.name
+millenaire:item.ml_denier, item.ml_denier.name
+millenaire:item.ml_denier_or, item.ml_denier_or.name
+millenaire:item.ml_denier_argent, item.ml_denier_argent.name
+millenaire:item.ml_ciderapple, item.ml_ciderapple.name
+millenaire:item.ml_cider, item.ml_cider.name
+millenaire:item.ml_calva, item.ml_calva.name
+millenaire:item.ml_tripes, item.ml_tripes.name
+millenaire:item.ml_normanPickaxe, item.ml_normanPickaxe.name
+millenaire:item.ml_normanAxe, item.ml_normanAxe.name
+millenaire:item.ml_normanShovel, item.ml_normanShovel.name
+millenaire:item.ml_normanHoe, item.ml_normanHoe.name
+millenaire:item.ml_villageWand, item.ml_villageWand.name
+millenaire:item.ml_normanBroadsword, item.ml_normanBroadsword.name
+millenaire:item.ml_normanHelmet, item.ml_normanHelmet.name
+millenaire:item.ml_normanPlate, item.ml_normanPlate.name
+millenaire:item.ml_normanLegs, item.ml_normanLegs.name
+millenaire:item.ml_normanBoots, item.ml_normanBoots.name
+millenaire:item.ml_parchmentVillagers, item.ml_parchmentVillagers.name
+millenaire:item.ml_parchmentBuildings, item.ml_parchmentBuildings.name
+millenaire:item.ml_parchmentItems, item.ml_parchmentItems.name
+millenaire:item.ml_marchmentComplete, item.ml_marchmentComplete.name
+millenaire:item.ml_boudin, item.ml_boudin.name
+millenaire:item.ml_tapestry, item.ml_tapestry.name
+millenaire:item.ml_raven_amulet, item.ml_raven_amulet.name
+millenaire:item.ml_dwarves_amulet, item.ml_dwarves_amulet.name
+millenaire:item.ml_yddrasil_amulet, item.ml_yddrasil_amulet.name
+millenaire:item.ml_skoll_hati_amulet, item.ml_skoll_hati_amulet.name
+millenaire:item.ml_parchmentVillageScroll, item.ml_parchmentVillageScroll.name
+millenaire:item.ml_rice, item.ml_rice.name
+millenaire:item.ml_turmeric, item.ml_turmeric.name
+millenaire:item.ml_vegcurry, item.ml_vegcurry.name
+millenaire:item.ml_chickencurry, item.ml_chickencurry.name
+millenaire:item.ml_brickmould, item.ml_brickmould.name
+millenaire:item.ml_rasgullaId, item.ml_rasgullaId.name
+millenaire:item.ml_indianstatue, item.ml_indianstatue.name
+millenaire:item.ml_parchmentIndianVillagers, item.ml_parchmentIndianVillagers.name
+millenaire:item.ml_parchmentIndianBuildings, item.ml_parchmentIndianBuildings.name
+millenaire:item.ml_parchmentIndianItems, item.ml_parchmentIndianItems.name
+millenaire:item.ml_marchmentIndianComplete, item.ml_marchmentIndianComplete.name
+millenaire:item.ml_mayanstatue, item.ml_mayanstatue.name
+millenaire:item.ml_maize, item.ml_maize.name
+millenaire:item.ml_wah, item.ml_wah.name
+millenaire:item.ml_masa, item.ml_masa.name
+millenaire:item.ml_parchmentMayanVillagers, item.ml_parchmentMayanVillagers.name
+millenaire:item.ml_parchmentMayanBuildings, item.ml_parchmentMayanBuildings.name
+millenaire:item.ml_parchmentMayanItems, item.ml_parchmentMayanItems.name
+millenaire:item.ml_parchmentMayanComplete, item.ml_parchmentMayanComplete.name
+millenaire:item.ml_parchmentSadhu, item.ml_parchmentSadhu.name
+millenaire:item.ml_unknownPowder, item.ml_unknownPowder.name
+millenaire:item.ml_udon, item.ml_udon.name
+millenaire:item.ml_taichiSword, item.ml_taichiSword.name
+millenaire:item.ml_negationWand, item.ml_negationWand.name
+millenaire:item.ml_obsidianFlake, item.ml_obsidianFlake.name
+millenaire:item.ml_mayanMace, item.ml_mayanMace.name
+millenaire:item.ml_mayanPickaxe, item.ml_mayanPickaxe.name
+millenaire:item.ml_mayanAxe, item.ml_mayanAxe.name
+millenaire:item.ml_mayanShovel, item.ml_mayanShovel.name
+millenaire:item.ml_mayanHoe, item.ml_mayanHoe.name
+millenaire:item.ml_yumiBow, item.ml_yumiBow.name
+millenaire:item.ml_japaneseWarriorBlueLegs, item.ml_japaneseWarriorBlueLegs.name
+millenaire:item.ml_japaneseWarriorBlueHelmet, item.ml_japaneseWarriorBlueHelmet.name
+millenaire:item.ml_japaneseWarriorBluePlate, item.ml_japaneseWarriorBluePlate.name
+millenaire:item.ml_japaneseWarriorBlueBoots, item.ml_japaneseWarriorBlueBoots.name
+millenaire:item.ml_japaneseWarriorRedLegs, item.ml_japaneseWarriorRedLegs.name
+millenaire:item.ml_japaneseWarriorRedHelmet, item.ml_japaneseWarriorRedHelmet.name
+millenaire:item.ml_japaneseWarriorRedPlate, item.ml_japaneseWarriorRedPlate.name
+millenaire:item.ml_japaneseWarriorRedBoots, item.ml_japaneseWarriorRedBoots.name
+millenaire:item.ml_japaneseGuardLegs, item.ml_japaneseGuardLegs.name
+millenaire:item.ml_japaneseGuardHelmet, item.ml_japaneseGuardHelmet.name
+millenaire:item.ml_japaneseGuardPlate, item.ml_japaneseGuardPlate.name
+millenaire:item.ml_japaneseGuardBoots, item.ml_japaneseGuardBoots.name
+millenaire:item.ml_parchmentJapaneseVillagers, item.ml_parchmentJapaneseVillagers.name
+millenaire:item.ml_parchmentJapaneseBuildings, item.ml_parchmentJapaneseBuildings.name
+millenaire:item.ml_parchmentJapaneseItems, item.ml_parchmentJapaneseItems.name
+millenaire:item.ml_parchmentJapaneseComplete, item.ml_parchmentJapaneseComplete.name
+millenaire:item.ml_vine, item.ml_vine.name
+millenaire:item.ml_wine, item.ml_wine.name
+millenaire:item.ml_silk, item.ml_silk.name
+millenaire:item.ml_byzantineicon, item.ml_byzantineicon.name
+millenaire:item.ml_byzantineiconmedium, item.ml_byzantineiconmedium.name
+millenaire:item.ml_byzantineiconlarge, item.ml_byzantineiconlarge.name
+millenaire:item.ml_byzantineMace, item.ml_byzantineMace.name
+millenaire:item.ml_byzantineLegs, item.ml_byzantineLegs.name
+millenaire:item.ml_byzantineHelmet, item.ml_byzantineHelmet.name
+millenaire:item.ml_byzantinePlate, item.ml_byzantinePlate.name
+millenaire:item.ml_byzantineBoots, item.ml_byzantineBoots.name
+millenaire:item.ml_wine_basic, item.ml_wine_basic.name
+millenaire:item.ml_lamb_raw, item.ml_lamb_raw.name
+millenaire:item.ml_lamb_cooked, item.ml_lamb_cooked.name
+millenaire:item.ml_feta, item.ml_feta.name
+millenaire:item.ml_souvlaki, item.ml_souvlaki.name
+millenaire:item.ml_sake, item.ml_sake.name
+millenaire:item.ml_cacauhaa, item.ml_cacauhaa.name
+millenaire:item.ml_mayanQuestCrown, item.ml_mayanQuestCrown.name
+millenaire:item.ml_ikayaki, item.ml_ikayaki.name
+millenaire:item.ml_clothes:0, item.clothes_byz_wool.name
+millenaire:item.ml_clothes:1, item.clothes_byz_silk.name
+millenaire:item.ml_purse, item.ml_purse.name
 NuclearCraft:fuel:0, LEU-235 Fuel
 NuclearCraft:fuel:1, HEU-235 Fuel
 NuclearCraft:fuel:2, LEP-239 Fuel
@@ -33122,22 +33232,22 @@ ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Yellow Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
 ThermalDynamics:cover:0, Green Portuguese Pavement Slab Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
 ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
 ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -38091,6 +38201,37 @@ ThermalDynamics:cover:0, Silver Window Cover
 ThermalDynamics:cover:0, Platinum Window Cover
 ThermalDynamics:cover:0, Brass Window Cover
 ThermalDynamics:cover:0, Electrum Window Cover
+ThermalDynamics:cover:0, tile.ml_wood_deco.0.name Cover
+ThermalDynamics:cover:0, tile.ml_wood_deco.1.name Cover
+ThermalDynamics:cover:0, tile.ml_wood_deco.2.name Cover
+ThermalDynamics:cover:0, tile.ml_wood_deco.3.name Cover
+ThermalDynamics:cover:0, tile.ml_wood_deco.4.name Cover
+ThermalDynamics:cover:0, tile.ml_earth_deco.0.name Cover
+ThermalDynamics:cover:0, tile.ml_earth_deco.1.name Cover
+ThermalDynamics:cover:0, tile.ml_stone_deco.0.name Cover
+ThermalDynamics:cover:0, tile.ml_stone_deco.1.name Cover
+ThermalDynamics:cover:0, tile.ml_stone_deco.2.name Cover
+ThermalDynamics:cover:0, tile.ml_stone_deco.3.name Cover
+ThermalDynamics:cover:0, tile.ml_path.8.name Cover
+ThermalDynamics:cover:0, tile.ml_path.9.name Cover
+ThermalDynamics:cover:0, tile.ml_path.10.name Cover
+ThermalDynamics:cover:0, tile.ml_path.11.name Cover
+ThermalDynamics:cover:0, tile.ml_path.12.name Cover
+ThermalDynamics:cover:0, tile.ml_path.13.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.8.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.9.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.10.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.11.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.12.name Cover
+ThermalDynamics:cover:0, tile.ml_path_slab.13.name Cover
+ThermalDynamics:cover:0, tile.ml_cropRice.name Cover
+ThermalDynamics:cover:0, tile.ml_cropTurmeric.name Cover
+ThermalDynamics:cover:0, tile.ml_cropMaize.name Cover
+ThermalDynamics:cover:0, tile.ml_cropVine.name Cover
+ThermalDynamics:cover:0, tile.byzantine_brick.name Cover
+ThermalDynamics:cover:0, tile.byzantine_brick_slab.name Cover
+ThermalDynamics:cover:0, tile.byzantine_mixedbrick.name Cover
+ThermalDynamics:cover:0, tile.ml_panes.name Cover
 ThermalDynamics:cover:0, Nether Coal Ore Cover
 ThermalDynamics:cover:0, Nether Diamond Ore Cover
 ThermalDynamics:cover:0, Nether Gold Ore Cover
@@ -39286,6 +39427,21 @@ WitchingGadgets:item.WG_Cluster:27, Native Adamantine Cluster
 WitchingGadgets:item.WG_Cluster:28, Native Atlarus Cluster
 WitchingGadgets:item.WG_Cluster:29, Native Eximite Cluster
 WitchingGadgets:item.WG_Cluster:30, Native Meutoite Cluster
+WitchingGadgets:WG_MetalDevice:0, Essentia Pump
+WitchingGadgets:WG_MetalDevice:1, Arcane Terrestrial Reformer
+WitchingGadgets:WG_MetalDevice:2, Terrestrial Focus: Plains
+WitchingGadgets:WG_MetalDevice:3, Terrestrial Focus: Cold Taiga
+WitchingGadgets:WG_MetalDevice:4, Terrestrial Focus: Desert
+WitchingGadgets:WG_MetalDevice:5, Terrestrial Focus: Jungle
+WitchingGadgets:WG_MetalDevice:6, Terrestrial Focus: Hell
+WitchingGadgets:WG_MetalDevice:7, Void metal Block
+WitchingGadgets:WG_MetalDevice:8, Terrestrial Focus: Tainted Lands
+WitchingGadgets:WG_MetalDevice:9, Terrestrial Focus: Mushroom Island
+WitchingGadgets:WG_RoseVine, Rose Vines
+WitchingGadgets:WG_CustomAir, Glimmer of Light
+ForgeRelocation:relocation.blockmovingrow:0, tile.relocation.blockmovingrow|0.name
+MCFrames:mcframes.motor:0, Debug Frame Motor
+MCFrames:mcframes.frame, Frame
 IguanaTweaksTConstruct:rubberChicken, item.iguana.tcon.rubberChicken.name
 IguanaTweaksTConstruct:clayBucketUnfired, Unfired Clay Bucket
 IguanaTweaksTConstruct:clayBucketFired, Fired Clay Bucket
@@ -39326,31 +39482,39 @@ IguanaTweaksTConstruct:clayBucketsTinkers:30, Molten Enderium Clay Bucket
 VeganOption:falseMorel, False Morel
 VeganOption:falseMorelFermented, Fermented False Morel
 VeganOption:seedSunflower, Sunflower Seeds
+VeganOption:fluidOilVegetable, Vegetable Oil
 VeganOption:oilVegetable, Vegetable Oil
 VeganOption:waxVegetable, Vegetable Wax
 VeganOption:inkVegetableOilBlack, Black Vegetable Oil Ink
+VeganOption:inkBlack, Black Vegetable Oil Ink
 VeganOption:inkVegetableOilWhite, White Vegetable Oil Ink
+VeganOption:inkWhite, White Vegetable Oil Ink
 VeganOption:washableWheat:0, Wheat Flour
 VeganOption:washableWheat:1, Wheat Dough
 VeganOption:washableWheat:2, Raw Seitan (Unwashed)
 VeganOption:washableWheat:6, Raw Seitan
 VeganOption:seitanCooked, Seitan
+VeganOption:lyeWater, Wood Ash Lye
 VeganOption:bucketLyeWater, Wood Ash Lye Bucket
 VeganOption:soap, Soap
 VeganOption:bioplastic, Bioplastic
 VeganOption:plasticRod, Plastic Rod
+VeganOption:fluidSoapSolution, Soap Solution
 VeganOption:soapSolution, Soap Solution
 VeganOption:frozenBubble:0, Frozen Bubble
 VeganOption:appleSauce, Apple Sauce
 VeganOption:potatoStarch, Potato Starch
 VeganOption:plasticEgg, Plastic Egg
 VeganOption:bedStraw, Straw Bed
+VeganOption:composter, Composter
 VeganOption:rottenPlants, Rotten Plants
 VeganOption:fertilizer, Fertilizer
+VeganOption:compost, Compost
 VeganOption:sufferingFragment, Fragment of Suffering
 VeganOption:sufferingProof, Proof of Suffering
 VeganOption:resin, Resin
 VeganOption:rosin, Rosin
+VeganOption:basin, Basin
 VeganOption:encrustedObsidian, Encrusted Obsidian
 VeganOption:enderRift, Ender Rift
 VeganOption:rawEnder, Raw Ender

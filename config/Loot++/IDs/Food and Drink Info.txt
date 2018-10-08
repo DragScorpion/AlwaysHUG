@@ -8187,6 +8187,146 @@ harvestthenether:marrowberryItem
 	- Saturation Amount: 0.6
 
 
+millenaire:item.ml_boudin
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+millenaire:item.ml_cacauhaa
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_calva
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_chickencurry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+millenaire:item.ml_cider
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_ciderapple
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 1
+	- Saturation Amount: 0.05
+
+
+millenaire:item.ml_feta
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_ikayaki
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+millenaire:item.ml_lamb_cooked
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+millenaire:item.ml_lamb_raw
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 2
+	- Saturation Amount: 0.2
+
+
+millenaire:item.ml_masa
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+millenaire:item.ml_rasgullaId
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_sake
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_souvlaki
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+millenaire:item.ml_tripes
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+millenaire:item.ml_udon
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 8
+	- Saturation Amount: 0.8
+
+
+millenaire:item.ml_vegcurry
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 6
+	- Saturation Amount: 0.6
+
+
+millenaire:item.ml_wah
+	- Megadata: 0
+	- Food or Drink? Food
+	- Food Amount: 10
+	- Saturation Amount: 1.0
+
+
+millenaire:item.ml_wine
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
+millenaire:item.ml_wine_basic
+	- Megadata: 0
+	- Food or Drink? Drink
+	- Food Amount: 0
+	- Saturation Amount: 0.0
+
+
 minecraft:apple
 	- Megadata: 0
 	- Food or Drink? Food
