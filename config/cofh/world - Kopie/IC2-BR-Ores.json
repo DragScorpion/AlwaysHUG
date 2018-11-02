@@ -15,7 +15,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     },
 	"NetherUran": {

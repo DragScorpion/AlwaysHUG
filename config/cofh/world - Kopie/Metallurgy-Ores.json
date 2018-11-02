@@ -5,7 +5,7 @@
 		"block": {"name": "Metallurgy:base.ore", "metadata": 2},
         "material": "minecraft:stone",
         "clusterSize": 8,
-        "numClusters": 4,
+        "numClusters": 1,
         "minHeight": 50,
         "maxHeight": 130,
         "retrogen": "true",
@@ -13,7 +13,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-			0
+            0,
+            89
 			]
 	},
 	"Phosphorite": {
@@ -21,7 +22,7 @@
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 1},
         "material": "minecraft:stone",
         "clusterSize": 4,
-        "numClusters": 8,
+        "numClusters": 6,
         "minHeight": 15,
         "maxHeight": 45,
         "retrogen": "true",
@@ -29,7 +30,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Saltpeter": {
@@ -37,7 +39,7 @@
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 2},
         "material": "minecraft:stone",
         "clusterSize": 12,
-        "numClusters": 5,
+        "numClusters": 2,
         "minHeight": 35,
         "maxHeight": 55,
         "retrogen": "true",
@@ -45,15 +47,16 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Magnesium": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 3},
         "material": "minecraft:stone",
-        "clusterSize": 3,
-        "numClusters": 17,
+        "clusterSize": 1,
+        "numClusters": 8,
         "minHeight": 10,
         "maxHeight": 35,
         "retrogen": "true",
@@ -61,7 +64,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Bitumen": {
@@ -69,7 +73,7 @@
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 4},
         "material": "minecraft:stone",
         "clusterSize": 42,
-        "numClusters": 3,
+        "numClusters": 1,
         "minHeight": 57,
         "maxHeight": 145,
         "retrogen": "true",
@@ -77,15 +81,16 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Potash": {
         "template": "uniform",
 		"block": {"name": "Metallurgy:utility.ore", "metadata": 5},
         "material": "minecraft:stone",
-        "clusterSize": 21,
-        "numClusters": 3,
+        "clusterSize": 14,
+        "numClusters": 2,
         "minHeight": 60,
         "maxHeight": 160,
         "retrogen": "true",
@@ -93,15 +98,16 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Zinc": {
         "template": "uniform",
-		"block": {"name": "Metallurgy:precious.ore", "metadata": 1},
+		"block": {"name": "Metallurgy:precious.ore", "metadata": 0},
         "material": "minecraft:stone",
-        "clusterSize": 14,
-        "numClusters": 6,
+        "clusterSize": 9,
+        "numClusters": 4,
         "minHeight": 15,
         "maxHeight": 40,
         "retrogen": "true",
@@ -109,7 +115,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
 	},
 	"Platinum": {
@@ -117,7 +124,7 @@
 		"block": {"name": "Metallurgy:precious.ore", "metadata": 2},
         "material": "minecraft:stone",
         "clusterSize": 3,
-        "numClusters": 4,
+        "numClusters": 3,
         "minHeight": 5,
         "maxHeight": 20,
         "retrogen": "true",
@@ -125,7 +132,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 			]
     },
 	//Nether

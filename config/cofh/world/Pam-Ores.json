@@ -4,7 +4,7 @@
 		"block": "harvestcraft:salt",
         "material": "minecraft:stone",
         "clusterSize": 24,
-        "numClusters": 3,
+        "numClusters": 2,
         "minHeight": 45,
         "maxHeight": 150,
         "retrogen": "true",
@@ -12,7 +12,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     }
 }

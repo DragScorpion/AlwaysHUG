@@ -3,7 +3,7 @@
         "template": "uniform",
 		"block": {"name": "ProjRed|Exploration:projectred.exploration.ore", "metadata": 6},
         "material": "minecraft:stone",
-        "clusterSize": 23,
+        "clusterSize": 14,
         "numClusters": 2,
         "minHeight": 5,
         "maxHeight": 30,
@@ -12,7 +12,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     }
 }

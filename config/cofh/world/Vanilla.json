@@ -3,7 +3,7 @@
         "template": "uniform",
         "block": "coal_ore",
         "material": "stone",
-        "clusterSize": 35,
+        "clusterSize": 32,
         "numClusters": 6,
         "minHeight": 35,
         "maxHeight": 170,
@@ -13,14 +13,15 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "iron": {
         "template": "uniform",
         "block": "iron_ore",
         "material": "minecraft:stone",
-        "clusterSize": 24,
+        "clusterSize": 18,
         "numClusters": 5,
         "minHeight": 10,
         "maxHeight": 75,
@@ -30,7 +31,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "gold": {
@@ -47,14 +49,15 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "redstone": {
         "template": "uniform",
         "block": "redstone_ore",
         "material": "minecraft:stone",
-        "clusterSize": 28,
+        "clusterSize": 18,
         "numClusters": 2,
         "minHeight": 5,
         "maxHeight": 25,
@@ -64,7 +67,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "diamond": {
@@ -81,7 +85,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     
@@ -99,14 +104,15 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "lapis": {
         "template": "uniform",
         "block": "lapis_ore",
         "material": "minecraft:stone",
-        "clusterSize": 26,
+        "clusterSize": 18,
         "numClusters": 2,
         "minHeight": 5,
         "maxHeight": 20,
@@ -116,7 +122,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     }
 }

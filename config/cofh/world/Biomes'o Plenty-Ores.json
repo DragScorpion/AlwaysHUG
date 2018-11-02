@@ -13,7 +13,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
 		"Peridot": {
@@ -30,7 +31,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
 		"Topaz": {
@@ -47,7 +49,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
 		"Tanzanite": {
@@ -64,7 +67,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
 		"Malachite": {
@@ -81,7 +85,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
 		"Sapphire": {
@@ -98,7 +103,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     }
 }

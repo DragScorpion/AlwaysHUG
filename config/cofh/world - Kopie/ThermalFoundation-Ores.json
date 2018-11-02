@@ -14,7 +14,8 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     },
     "tin": {
@@ -31,7 +32,8 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     },
     "silver": {
@@ -51,7 +53,8 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     },
     "lead": {
@@ -71,7 +74,8 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 		]
     },
     "nickel": {
@@ -88,7 +92,8 @@
         ],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
 		]
     }
 }

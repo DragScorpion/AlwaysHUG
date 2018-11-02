@@ -1,63 +1,10 @@
 {
-    // Blocks of Rock
-	"dirt": {
-        "template": "uniform",
-        "block": "dirt",
-        "material": "minecraft:stone",
-        "clusterSize": 32,
-        "numClusters": 20,
-        "minHeight": 0,
-        "maxHeight": 128,
-        "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            0,
-            7
-        ]
-    },
-    "gravel": {
-        "template": "uniform",
-        "block": "gravel",
-        "material": "stone",
-        "clusterSize": 32,
-        "numClusters": 10,
-        "minHeight": 0,
-        "maxHeight": 128,
-        "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            0,
-            7
-        ]
-    },
-    "clay": {
-        "template": "uniform",
-        "block": "clay",
-        "material": "minecraft:stone",
-        "clusterSize": 84,
-        "numClusters": 2,
-        "minHeight": 20,
-        "maxHeight": 180,
-        "retrogen": "false",
-        "biomeRestriction": "none",
-        "biomes": [],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-            0,
-            7
-        ]
-    },    
-	// Overworld Ores
 	"coal": {
         "template": "uniform",
         "block": "coal_ore",
         "material": "stone",
         "clusterSize": 35,
-        "numClusters": 4,
+        "numClusters": 6,
         "minHeight": 35,
         "maxHeight": 170,
         "retrogen": "true",
@@ -66,7 +13,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "iron": {
@@ -83,7 +31,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "gold": {
@@ -100,7 +49,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "redstone": {
@@ -108,16 +58,17 @@
         "block": "redstone_ore",
         "material": "minecraft:stone",
         "clusterSize": 28,
-        "numClusters": 4,
+        "numClusters": 2,
         "minHeight": 5,
-        "maxHeight": 30,
+        "maxHeight": 25,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "diamond": {
@@ -134,7 +85,8 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     
@@ -152,43 +104,26 @@
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
     },
     "lapis": {
-        "template": "normal",
+        "template": "uniform",
         "block": "lapis_ore",
         "material": "minecraft:stone",
         "clusterSize": 26,
-        "numClusters": 4,
-        "minHeight": 20,
-        "maxHeight": 35,
+        "numClusters": 2,
+        "minHeight": 5,
+        "maxHeight": 20,
         "retrogen": "true",
         "biomeRestriction": "none",
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
             0,
-            7
+            7,
+            89
         ]
-    },
-	// Nether Ores
-    "quartz": {
-        "template": "uniform",
-        "block": "quartz_ore",
-        "material": "minecraft:netherrack",
-        "clusterSize": 13,
-        "numClusters": 16,
-        "minHeight": 10,
-        "maxHeight": 118,
-        "retrogen": "true",
-        "biomeRestriction": "whitelist",
-        "biomes": [
-            {"type": "dictionary", "entry": "NETHER"}
-        ],
-        "dimensionRestriction": "whitelist",
-        "dimensions": [
-		    -1
-		]
     }
 }

@@ -12,7 +12,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     },
 	"Lithium": {
@@ -28,7 +29,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
 	},
 	"Boron": {
@@ -44,10 +46,11 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
 	},
-    "Thorium": {
+    "Plutionium": {
         "template": "uniform",
 		"block": {"name": "NuclearCraft:blockOre", "metadata": 6},
         "material": "minecraft:stone",
@@ -60,7 +63,7 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+           -1
         ]
     }
 }

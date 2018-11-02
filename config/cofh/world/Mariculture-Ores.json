@@ -3,8 +3,8 @@
         "template": "uniform",
 		"block": {"name": "Mariculture:rocks", "metadata": 2},
         "material": "minecraft:stone",
-        "clusterSize": 8,
-        "numClusters": 7,
+        "clusterSize": 12,
+        "numClusters": 4,
         "minHeight": 15,
         "maxHeight": 35,
         "retrogen": "true",
@@ -12,7 +12,8 @@
         "biomes": [],
         "dimensionRestriction": "whitelist",
         "dimensions": [
-            0
+            0,
+            89
         ]
     }
 }

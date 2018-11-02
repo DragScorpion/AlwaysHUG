@@ -13,3 +13,30 @@
 #Example: claysanthemum,minecraft:clay,minecraft:sand,minecraft:hardened_clay,2,6,a crop that extracts clay from the soil to grow clay buds.
 #this will need textures cropClaysanthemum1, cropClaysanthemum2, Claysanthemum3, Claysanthemum4 in the agricraft/textures/blocks folder and seedClaysanthemum in the agricraft/textures/items folder of your resourcepack.
 #Note the capitalization, always put a capital in the texture name. Also, this crop will not grow unless it has a hardened clay block underneath the block of farmland it's on
+
+Cattail,BiomesOPlenty:misc:6,BiomesOPlenty:mud,null,2,1
+Swampflower,minecraft:dye:6,null,BiomesOPlenty:mud,2,1
+Deathbloom,BiomesOPlenty:misc:9,null,null,3,1
+Blue Hydrangea,minecraft:dye:12,null,null,2,1
+Bluebells,BiomesOPlenty:misc:5,null,null,2,1
+Lilac,,null,null,2,1
+Rose Bush,null,null,2,1
+Peony,null,null,2,1
+Azure Bluet,null,null,2,1
+Oxeye Daisy,null,null,2,1
+Orange Cosmos,null,null,2,1
+Pink Daffodil,null,null,2,1
+Wildflower,null,null,2,1
+Violet,null,null,2,1
+White Anemone,null,null,2,1
+Dandelion Puff,null,null,2,1
+Pink Hibiscus,null,null,2,1
+Lily of the Valley,null,null,2,1
+Burning Blossom,null,null,2,1
+Lavender,null,null,2,1
+Goldenrod,null,null,2,1
+Icy Iris,null,null,2,1
+Rose,null,null,2,1
+Blue Milk Cap,null,null,2,1
+Glowshroom,null,null,2,1
+Flat Mushroom,null,null,2,1
